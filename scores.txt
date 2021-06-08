@@ -1,0 +1,20 @@
+Max: 7
+Maxi: 2
+Max Norman: 13
+m: 0
+max: 1
+null: 1
+fdsadf: 0
+kjhgfds: 0
+me: 1
+qwerty: 0
+Max Norman: 15
+Max: 5
+Max Norman: 7
+MN: 25
+Terrible score: -3
+null: 8
+null: 0
+max: 2
+Max: 17
+Max: 25
